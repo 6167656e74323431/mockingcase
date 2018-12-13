@@ -1,6 +1,6 @@
 # Mockingcase
 
-Allows strings to be converted to mOcKiNgCaSe. Inspiered by [this](http://dannypage.github.io/spongebob.html).
+Allows strings to be converted to mOcKiNgCaSe. Inspired by [this](http://dannypage.github.io/spongebob.html).
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-You can convert  a string to mOcKiNgCaSe like this
+You can convert  a string to mOcKiNgCaSe like this:
 ```ruby
 require 'mockingcase'
 
