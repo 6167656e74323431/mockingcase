@@ -18,20 +18,7 @@ module Mockingcase
         new.join
     end
     def to_mockingcase! random = false
-        state = false
-        new = []
-        self.chars.each do |c|
-            if random then
-                state = [true, false].sample
-            end
-            if state then
-                new << c.upcase
-            else
-                new << c.downcase
-            end
-            state = ! state
-        end
-        replace new.join
+        replace self.to_mockingcase random
         nil
     end
 end
