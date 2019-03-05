@@ -1,6 +1,6 @@
 # Mockingcase
 
-Allows strings to be converted to mOcKiNgCaSe. Inspired by [this](http://dannypage.github.io/spongebob.html).
+Allows strings to be converted to mOcKiNgCaSe. Inspired by [this](http://dannypage.github.io/spongebob.html), and [this](https://github.com/strdr4605/mockingcase).
 
 ## Installation
 
